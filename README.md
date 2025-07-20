@@ -1,2 +1,5 @@
-This repository contains code, preprocessing steps, and machine learning models built using the CIC IoT 2023 Dataset, a benchmark dataset for evaluating intrusion detection systems (IDS) in Internet of Things (IoT) environments.
-he CIC IoT 2023 dataset, published by the Canadian Institute for Cybersecurity (CIC), is designed for network intrusion detection in IoT systems. It captures a diverse range of attack and benign traffic, simulating realistic smart home and smart city scenarios.
+This repository contains code, preprocessing steps, and machine learning and deep learning models built using the CIC IoT 2023 Dataset,
+1) Feature selection using genetic algorithm
+2) Balancing using SMOTE-ENN
+3) Achieved a peak accuracy of arounf 99.25 percent using BiLSTM model.
+4) Used SHAP and LIME for feature analysis
